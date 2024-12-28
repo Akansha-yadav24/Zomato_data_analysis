@@ -29,13 +29,13 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/zomato-data-analysis.git
+   git clone https://github.com/your-username/Zomato-data-analysis.git
    ```
 
 2. Navigate to the project folder:
 
    ```
-   cd zomato-data-analysis
+   cd Zomato-data-analysis
    ```
 
 
