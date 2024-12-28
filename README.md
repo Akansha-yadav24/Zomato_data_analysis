@@ -1,6 +1,4 @@
-Here’s a simplified version of the README file in markdown format:
 
-```markdown
 # Zomato Data Analysis
 
 This project involves analyzing Zomato data to gain insights into the restaurant industry through various visualizations and statistical analysis.
@@ -35,11 +33,13 @@ pip install pandas numpy matplotlib seaborn
    ```
 
 2. Navigate to the project folder:
+
    ```
    cd zomato-data-analysis
    ```
 
-3. Run the analysis script:
+4. Run the analysis script:
+
    ```
    python analysis.py
    ```
@@ -48,9 +48,3 @@ pip install pandas numpy matplotlib seaborn
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-- Zomato dataset is publicly available. You can find it [here](link-to-data-source).
-```
-
-This version is more concise and in a simple markdown format. Just replace the placeholder URLs with the actual ones.
