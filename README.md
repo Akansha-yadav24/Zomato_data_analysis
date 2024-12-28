@@ -38,11 +38,6 @@ pip install pandas numpy matplotlib seaborn
    cd zomato-data-analysis
    ```
 
-4. Run the analysis script:
-
-   ```
-   python analysis.py
-   ```
 
 ## License
 
